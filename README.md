@@ -1,11 +1,8 @@
 [![MasterHead](https://i.pinimg.com/564x/b0/02/b2/b002b278d3ccfddc9f3553fc937516c5.jpg)](https://dev-quest-livid.vercel.app/)
 <h1 align="center">Hi 👋, I'm Shayan Ghori</h1>
-<h3 align="center">A simple developer who is his way to become a Full Stack Developer</h3>
+<h3 align="center">A simple developer who is on his way to becoming a Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/3c/ee/87/3cee87c95dbbffaa0adccbadfc4f8634.jpg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanakhun&label=Profile%20views&color=0e75b6&style=flat" alt="shayanakhun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanakhun" alt="shayanakhun" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shayanghoree" target="blank"><img src="https://img.shields.io/twitter/follow/shayanghoree?logo=twitter&style=for-the-badge" alt="shayanghoree" /></a> </p>
 
