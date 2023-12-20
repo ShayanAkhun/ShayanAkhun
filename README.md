@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shayanghoree" target="blank"><img src="https://img.shields.io/twitter/follow/shayanghoree?logo=twitter&style=for-the-badge" alt="shayanghoree" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancing**
+- 🔭 I’m currently **Freelancing** on Upwork
 
 - 🌱 I’m currently learning **MERN stack**
 
