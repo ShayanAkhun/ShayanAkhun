@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1240px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" viewBox="0 0 1240 530" width="1425" height="609" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -41,12 +41,12 @@ text, tspan {white-space: pre;}
 <text x="420" y="30" fill="#c9d1d9">
 <tspan x="420" y="30">shayan@ghori</tspan> -——————————————————————————————————————————————————————————————————————————————————————-—-
 <tspan x="420" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Windows 11, Android 17, Linux</tspan>
-<tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">26 years, 6 months, 11 days</tspan>
+<tspan x="420" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .............................. </tspan><tspan class="value" id="age_data">26 years, 6 months, 11 days</tspan>
 <tspan x="420" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
 <tspan x="420" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Gigabyte Technology Co., Ltd</tspan>
 <tspan x="420" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">IntelliJ IDEA 2026.2.1, VS Code 1.134.0</tspan>
 <tspan x="420" y="150" class="cc">. </tspan>
-<tspan x="420" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">JavaScript, Node.js, PHP, Laravel, TypeScript, Kotlin</tspan>
+<tspan x="420" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">JavaScript, Node.js, PHP, Laravel, TypeScript, Kotlin</tspan>
 <tspan x="420" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
 <tspan x="420" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">English, Urdu, German</tspan>
 <tspan x="420" y="230" class="cc">. </tspan>
