@@ -2,7 +2,7 @@
 Convert an image to the <tspan> block used in the class="ascii" portrait.
 
     pip install Pillow
-    python tools/ascii.py > art.txt
+    python tools/ascii.py path/to/photo.jpg > art.txt
 
 Then paste the output over the existing <tspan> lines inside
 <text ... class="ascii"> in BOTH light_mode.svg and dark_mode.svg.
@@ -10,7 +10,7 @@ Then paste the output over the existing <tspan> lines inside
 import sys
 from PIL import Image, ImageOps, ImageEnhance
 
-SRC = r"path/to/your/photo.jpg"   # <-- set this
+SRC = sys.argv[1] if len(sys.argv) > 1 else r"path/to/your/photo.jpg"   # or pass the path as an argument
 W = 40            # characters wide. Keep <= 40 or it overlaps the text panel (x=420).
 CELL_ASPECT = 2.05   # monospace char height / width
 GAMMA = 0.78         # < 1 brightens midtones so facial detail survives
